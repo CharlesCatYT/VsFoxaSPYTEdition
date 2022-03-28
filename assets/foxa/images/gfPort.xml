@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfport.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfport0000" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0001" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0002" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0003" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0004" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0005" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0006" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0007" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0008" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0009" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0010" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0011" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0012" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0013" x="416" y="314" width="416" height="314"/>
+	<SubTexture name="gfport0014" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0015" x="0" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0016" x="416" y="628" width="416" height="314"/>
+	<SubTexture name="gfport0017" x="416" y="628" width="416" height="314"/>
+</TextureAtlas>

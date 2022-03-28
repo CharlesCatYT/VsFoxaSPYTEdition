@@ -1,0 +1,4 @@
+sad -140 -153
+danceLeft -140 -153
+danceRight -140 -153
+scared -140 -153

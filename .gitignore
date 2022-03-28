@@ -1,0 +1,5 @@
+export/
+.vscode/
+builder.bat
+debugger.bat
+art/flashFiles/RECOVER_NOTE_assets.fla

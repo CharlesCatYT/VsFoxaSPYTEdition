@@ -1,0 +1,6 @@
+Bubbles:foxa:0
+Burning-Flames:foxa-angy:0
+Execution:foxa-mad:0
+Firestorm:foxa-mad:0
+Sacrifice:foxa:0
+Detonator:foxa:0
